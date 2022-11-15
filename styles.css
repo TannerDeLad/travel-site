@@ -10,7 +10,7 @@ body {
 
 /* Top image box with the boxes and links */
 .links_ {
-    background-image: url("new_lake.jpg");
+    background-image: url("images/new_lake.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
